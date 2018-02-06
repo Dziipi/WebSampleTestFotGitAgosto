@@ -4,7 +4,7 @@
 */
 p{ line-height: 1em; }
 h1, h2, h3, h4{
-    color: orange;
+    color: green;
 	font-weight: normal;
 	line-height: 1.1em;
 	margin: 0 0 .5em 0;
@@ -12,7 +12,7 @@ h1, h2, h3, h4{
 h1{ font-size: 1.7em; }
 h2{ font-size: 1.5em; }
 a{
-	color: black;
+	color: green;
 	text-decoration: none;
 }
 	a:hover,
@@ -47,7 +47,7 @@ body{
 		}
 			#nav ul li a{
 				padding: 20px;
-				background: orange;
+				background: green;
 				color: white;
 			}
 			#nav ul li a:hover{
